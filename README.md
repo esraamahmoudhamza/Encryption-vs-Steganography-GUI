@@ -29,6 +29,12 @@ This is a Python-based GUI application that demonstrates the difference between 
 - Hide it inside the image using LSB
 - Extract it anytime!
 
+
+## 🎬 Demo Video
+
+Watch the full walkthrough and story behind this project on YouTube:  
+📺 [Kayla’s Cybersecurity Project - Esraa Codes](https://youtu.be/aLTIIEjCwlg)
+
 ## 📂 Installation
 
 ```bash
